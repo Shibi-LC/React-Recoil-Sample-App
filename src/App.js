@@ -16,7 +16,6 @@ export default function App() {
           <Typography variant="h4" component="h1" gutterBottom>
             Create React App example
           </Typography>
-          
         </Box>
         <Navigation />
         <Routes>
